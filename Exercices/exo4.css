@@ -1,0 +1,19 @@
+/*Exercice carrousel*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation*/
+li a{
+    color: #1C421E;
+}
+li a:hover{
+    color: plum;
+}
+
+/* Carousel*/
+img{
+    height: 50em;
+    width: auto;
+}

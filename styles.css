@@ -1,0 +1,22 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+nav a{
+    color: white;
+}
+.row{
+    border: solid 5px black;
+}
+.col-4{
+    background-color: blue;
+}
+.col-8{
+    background-color: green;
+}
+.col-xl-4{
+    background-color: red;
+}
+.col-xl-8{
+    background-color: yellow;
+}

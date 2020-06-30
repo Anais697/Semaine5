@@ -1,0 +1,23 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    background-color: #cfc6d9;
+}
+/*.row1{
+    border: solid 3px #e1f16b;
+}
+.row2{
+    border: solid 3px #e1f16b;
+}
+.row2, .col-4{
+    justify-content: flex-end;
+}
+.row3{
+    border: solid 3px #e1f16b;
+}
+.row4{
+    border: solid 3px #e1f16b;
+}*/
+.row, .col-4, .col-8, .col-6, .col-3, .col-5{
+    border: solid purple 3px;
+}
