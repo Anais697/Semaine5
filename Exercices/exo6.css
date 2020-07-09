@@ -1,0 +1,23 @@
+/* Exercice images reproduction de modèle*/
+
+*{
+    margin: 0;
+    padding: O;
+    background-color: grey;
+}
+/*Maisons-Ebooks*/
+h1{
+    font-size: 1.5em;
+    font-weight: normal;
+}
+.house{
+    height: 5em;
+    width: 5em;
+}
+.wheat{
+    height: 5em;
+    width: 5em;
+}
+.ebook{
+    margin-bottom: 60px;
+}

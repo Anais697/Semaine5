@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+.house{
+    width: 6em;
+    height: 6em;
+}
+.wheat{
+    width: 6em;
+    height: 6em;
+}

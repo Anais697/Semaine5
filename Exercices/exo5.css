@@ -1,0 +1,38 @@
+/* Exercice immeubles*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/*.col-2{
+    border: solid 1px purple;
+}*/
+
+/* Correction*/
+.window {
+    height: 60px;
+    width: 20%;
+    background-color: aqua;
+    
+
+}
+
+.door {
+    height: 80px;
+    width: 20%;
+    background-color: brown;
+    
+}
+
+.building {
+    border: 2px solid;
+    background-color: lightgrey;
+}
+
+.ground {
+    background-color: green;
+    height: 60px;
+
+}
+.col-12{
+    border: none;
+}
